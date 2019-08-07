@@ -1,0 +1,14 @@
+game=游戏
+account=账户
+help=说明
+coin_flip=猜硬币
+roll_a_dice=一个骰子
+two_dice=两个骰子
+guess_number=猜数字
+win_chance=获胜机会
+you_will_win=您将赢得
+jackpot_contains=当前大奖
+fee=费用
+eth=以太币
+to_jackpot=累积大奖
+jackpot_chance=的赢大奖机会

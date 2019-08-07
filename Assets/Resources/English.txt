@@ -1,0 +1,14 @@
+game=Game
+account=Account
+help=Help
+coin_flip=Coin flip
+roll_a_dice=Roll a dice
+two_dice=Two dice
+guess_number=Guess number
+win_chance=Winning chance
+you_will_win=You will win
+jackpot_contains=Jackpot contains
+fee=fee
+eth=ETH
+to_jackpot=to jackpot
+jackpot_chance=jackpot chance

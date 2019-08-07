@@ -1,0 +1,14 @@
+
+.DS_Store
+/Temp/
+/Library/
+/Release/
+/.vscode/
+/Assets/StreamingAssets
+/.vs/
+/obj/Debug
+/.csproj
+/*.sln
+/*.csproj
+/*.apk
+/UnityWalletIOS/
